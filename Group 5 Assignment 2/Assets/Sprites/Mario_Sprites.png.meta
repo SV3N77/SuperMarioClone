@@ -1,7 +1,424 @@
 fileFormatVersion: 2
 guid: c7dd92f5488d2ae4da243b5c43ddcfec
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -9114690716081403391
+    second: Mario_Sprites_0
+  - first:
+      213: 5999075802056926955
+    second: Mario_Sprites_1
+  - first:
+      213: -6812331923636671884
+    second: Mario_Sprites_2
+  - first:
+      213: 7418840016752550089
+    second: Mario_Sprites_3
+  - first:
+      213: -3139477528469955026
+    second: Mario_Sprites_4
+  - first:
+      213: 3276759001369624454
+    second: Mario_Sprites_5
+  - first:
+      213: -4452687873240184229
+    second: Mario_Sprites_6
+  - first:
+      213: -3258996084000610312
+    second: Mario_Sprites_7
+  - first:
+      213: -2347736880999336634
+    second: Mario_Sprites_8
+  - first:
+      213: 688287124032061645
+    second: Mario_Sprites_9
+  - first:
+      213: 6060186125118475551
+    second: Mario_Sprites_10
+  - first:
+      213: -4201942975342602137
+    second: Mario_Sprites_11
+  - first:
+      213: 8540642279603395308
+    second: Mario_Sprites_12
+  - first:
+      213: 5414369540654050695
+    second: Mario_Sprites_13
+  - first:
+      213: -676688466825389120
+    second: Mario_Sprites_14
+  - first:
+      213: -6194789792953103026
+    second: Mario_Sprites_15
+  - first:
+      213: -4604581985414991546
+    second: Mario_Sprites_16
+  - first:
+      213: -9069700419594037439
+    second: Mario_Sprites_17
+  - first:
+      213: -8789921859197187594
+    second: Mario_Sprites_18
+  - first:
+      213: -7998408266608977340
+    second: Mario_Sprites_19
+  - first:
+      213: -5322753846266997622
+    second: Mario_Sprites_20
+  - first:
+      213: 4902728301828288322
+    second: Mario_Sprites_21
+  - first:
+      213: -5152342505636244054
+    second: Mario_Sprites_22
+  - first:
+      213: 747327412503085491
+    second: Mario_Sprites_23
+  - first:
+      213: 6965615030108198688
+    second: Mario_Sprites_24
+  - first:
+      213: -3639874993415349815
+    second: Mario_Sprites_25
+  - first:
+      213: -2838548790763953773
+    second: Mario_Sprites_26
+  - first:
+      213: -4509585757035793603
+    second: Mario_Sprites_27
+  - first:
+      213: -501992033954145781
+    second: Mario_Sprites_28
+  - first:
+      213: -5063660312843749968
+    second: Mario_Sprites_29
+  - first:
+      213: 6562162024378335097
+    second: Mario_Sprites_30
+  - first:
+      213: 5886210002154812238
+    second: Mario_Sprites_31
+  - first:
+      213: 167750315087644234
+    second: Mario_Sprites_32
+  - first:
+      213: 6117447098973100217
+    second: Mario_Sprites_33
+  - first:
+      213: -2972714901998591645
+    second: Mario_Sprites_34
+  - first:
+      213: -5690381119808541785
+    second: Mario_Sprites_35
+  - first:
+      213: 4391459387545814584
+    second: Mario_Sprites_36
+  - first:
+      213: 7296996661414486280
+    second: Mario_Sprites_37
+  - first:
+      213: -3449574889940267028
+    second: Mario_Sprites_38
+  - first:
+      213: 7597294111240542309
+    second: Mario_Sprites_39
+  - first:
+      213: 2798644532834753733
+    second: Mario_Sprites_40
+  - first:
+      213: -2482124977067921529
+    second: Mario_Sprites_41
+  - first:
+      213: -3300336923471071277
+    second: Mario_Sprites_42
+  - first:
+      213: -7054106202664392877
+    second: Mario_Sprites_43
+  - first:
+      213: -6757306245352794519
+    second: Mario_Sprites_44
+  - first:
+      213: -9029918686900436683
+    second: Mario_Sprites_45
+  - first:
+      213: 8580649836537674537
+    second: Mario_Sprites_46
+  - first:
+      213: -7118571994269705092
+    second: Mario_Sprites_47
+  - first:
+      213: -5697808489372710647
+    second: Mario_Sprites_48
+  - first:
+      213: 1253908119034325905
+    second: Mario_Sprites_49
+  - first:
+      213: 8433020223098543413
+    second: Mario_Sprites_50
+  - first:
+      213: 1326243481853273029
+    second: Mario_Sprites_51
+  - first:
+      213: -351869704812076814
+    second: Mario_Sprites_52
+  - first:
+      213: 6689522256751716133
+    second: Mario_Sprites_53
+  - first:
+      213: 6317569345319108037
+    second: Mario_Sprites_54
+  - first:
+      213: -3833482737745784626
+    second: Mario_Sprites_55
+  - first:
+      213: 4809753351216862193
+    second: Mario_Sprites_56
+  - first:
+      213: 3767455674681170681
+    second: Mario_Sprites_57
+  - first:
+      213: -4630263060336733852
+    second: Mario_Sprites_58
+  - first:
+      213: 1965052858065258825
+    second: Mario_Sprites_59
+  - first:
+      213: -5197728384187281696
+    second: Mario_Sprites_60
+  - first:
+      213: 5944333885256441529
+    second: Mario_Sprites_61
+  - first:
+      213: -1397660165823774242
+    second: Mario_Sprites_62
+  - first:
+      213: -4876408440818490767
+    second: Mario_Sprites_63
+  - first:
+      213: -8482040208358315203
+    second: Mario_Sprites_64
+  - first:
+      213: -9209030858765498225
+    second: Mario_Sprites_65
+  - first:
+      213: 2956441868091271843
+    second: Mario_Sprites_66
+  - first:
+      213: 1831659277353667564
+    second: Mario_Sprites_67
+  - first:
+      213: 7012955473233071981
+    second: Mario_Sprites_68
+  - first:
+      213: -6118776718606928468
+    second: Mario_Sprites_69
+  - first:
+      213: 928852781411402520
+    second: Mario_Sprites_70
+  - first:
+      213: -6205329895170509126
+    second: Mario_Sprites_71
+  - first:
+      213: -465592425576982442
+    second: Mario_Sprites_72
+  - first:
+      213: -4485647441028074923
+    second: Mario_Sprites_73
+  - first:
+      213: 90984041437025875
+    second: Mario_Sprites_74
+  - first:
+      213: -4909116989037262731
+    second: Mario_Sprites_75
+  - first:
+      213: 4329464850359269918
+    second: Mario_Sprites_76
+  - first:
+      213: 4244614665434691911
+    second: Mario_Sprites_77
+  - first:
+      213: -2055535750330306259
+    second: Mario_Sprites_78
+  - first:
+      213: -1428237662512169007
+    second: Mario_Sprites_79
+  - first:
+      213: 4130907532368027213
+    second: Mario_Sprites_80
+  - first:
+      213: -5369607770959096327
+    second: Mario_Sprites_81
+  - first:
+      213: -322091169644370231
+    second: Mario_Sprites_82
+  - first:
+      213: -7794803132321452469
+    second: Mario_Sprites_83
+  - first:
+      213: 8999217317062210018
+    second: Mario_Sprites_84
+  - first:
+      213: 7289496212937083437
+    second: Mario_Sprites_85
+  - first:
+      213: 7843021850339519791
+    second: Mario_Sprites_86
+  - first:
+      213: 46907724305049811
+    second: Mario_Sprites_87
+  - first:
+      213: 5057732200501890470
+    second: Mario_Sprites_88
+  - first:
+      213: -1678959246141630874
+    second: Mario_Sprites_89
+  - first:
+      213: -7913629481225614237
+    second: Mario_Sprites_90
+  - first:
+      213: 3108057828996438937
+    second: Mario_Sprites_91
+  - first:
+      213: -7280282455964972862
+    second: Mario_Sprites_92
+  - first:
+      213: 2359132426378690283
+    second: Mario_Sprites_93
+  - first:
+      213: 6711557975285213020
+    second: Mario_Sprites_94
+  - first:
+      213: -8154453596514476243
+    second: Mario_Sprites_95
+  - first:
+      213: 6190932208910869163
+    second: Mario_Sprites_96
+  - first:
+      213: -1012201909320421910
+    second: Mario_Sprites_97
+  - first:
+      213: 7537943875787718531
+    second: Mario_Sprites_98
+  - first:
+      213: -6541238178489577180
+    second: Mario_Sprites_99
+  - first:
+      213: -4105511546583197748
+    second: Mario_Sprites_100
+  - first:
+      213: 877558944089699174
+    second: Mario_Sprites_101
+  - first:
+      213: -4196757204829453756
+    second: Mario_Sprites_102
+  - first:
+      213: -6828196976033069673
+    second: Mario_Sprites_103
+  - first:
+      213: -1141722997667938500
+    second: Mario_Sprites_104
+  - first:
+      213: -6131404978098185475
+    second: Mario_Sprites_105
+  - first:
+      213: -8720753973618317985
+    second: Mario_Sprites_106
+  - first:
+      213: -7462983823039365094
+    second: Mario_Sprites_107
+  - first:
+      213: 3243918313613893689
+    second: Mario_Sprites_108
+  - first:
+      213: -8740099867244442648
+    second: Mario_Sprites_109
+  - first:
+      213: 1758774618739851130
+    second: Mario_Sprites_110
+  - first:
+      213: -7389830678583199631
+    second: Mario_Sprites_111
+  - first:
+      213: 3452516623871300911
+    second: Mario_Sprites_112
+  - first:
+      213: -4564489263301455518
+    second: Mario_Sprites_113
+  - first:
+      213: 3615594573090135526
+    second: Mario_Sprites_114
+  - first:
+      213: -4783484263207875611
+    second: Mario_Sprites_115
+  - first:
+      213: 3623277272597621448
+    second: Mario_Sprites_116
+  - first:
+      213: -8910793760807630148
+    second: Mario_Sprites_117
+  - first:
+      213: 2579930065683638686
+    second: Mario_Sprites_118
+  - first:
+      213: -4587948137415713929
+    second: Mario_Sprites_119
+  - first:
+      213: 1540721324346847957
+    second: Mario_Sprites_120
+  - first:
+      213: -9159388849699033955
+    second: Mario_Sprites_121
+  - first:
+      213: 4165768511321185191
+    second: Mario_Sprites_122
+  - first:
+      213: -2804629522169248129
+    second: Mario_Sprites_123
+  - first:
+      213: 3197240396241134366
+    second: Mario_Sprites_124
+  - first:
+      213: -1807369724859871942
+    second: Mario_Sprites_125
+  - first:
+      213: -5084860532432843625
+    second: Mario_Sprites_126
+  - first:
+      213: -3505792963043255226
+    second: Mario_Sprites_127
+  - first:
+      213: -5531636633898767003
+    second: Mario_Sprites_128
+  - first:
+      213: 6576825990223656610
+    second: Mario_Sprites_129
+  - first:
+      213: -8401339954395214228
+    second: Mario_Sprites_130
+  - first:
+      213: 7036154286464606819
+    second: Mario_Sprites_131
+  - first:
+      213: 4805262492860515362
+    second: Mario_Sprites_132
+  - first:
+      213: 8922163218024390602
+    second: Mario_Sprites_133
+  - first:
+      213: 7810869105735178104
+    second: Mario_Sprites_134
+  - first:
+      213: 8091628029575238891
+    second: Mario_Sprites_135
+  - first:
+      213: 6641165212017720966
+    second: Mario_Sprites_136
+  - first:
+      213: 8432253344668147029
+    second: Mario_Sprites_137
+  - first:
+      213: -6194545697979622318
+    second: Mario_Sprites_138
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +458,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +492,2964 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Mario_Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2417
+        width: 125
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10aca6ed51d128180800000000000000
+      internalID: -9114690716081403391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 2437
+        width: 146
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6ae3258aff04350800000000000000
+      internalID: 5999075802056926955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 2417
+        width: 155
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a259f653cb571a0800000000000000
+      internalID: -6812331923636671884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 2417
+        width: 116
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c02df340b305f660800000000000000
+      internalID: 7418840016752550089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 2417
+        width: 134
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e1a3f42d55e64d0800000000000000
+      internalID: -3139477528469955026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 2417
+        width: 135
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f333363f2697d20800000000000000
+      internalID: 3276759001369624454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 2417
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a44db78ffd432c0800000000000000
+      internalID: -4452687873240184229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 2427
+        width: 134
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f721c81458b5c2d0800000000000000
+      internalID: -3258996084000610312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 2427
+        width: 136
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64573fddeb92b6fd0800000000000000
+      internalID: -2347736880999336634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 2427
+        width: 134
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0086b1e794d8900800000000000000
+      internalID: 688287124032061645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 2427
+        width: 135
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d007c2c2b1a1450800000000000000
+      internalID: 6060186125118475551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 2427
+        width: 146
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76891447023bfa5c0800000000000000
+      internalID: -4201942975342602137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 2417
+        width: 124
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea517d27e4768670800000000000000
+      internalID: 8540642279603395308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 2417
+        width: 135
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d21612964b32b40800000000000000
+      internalID: 5414369540654050695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2087
+        width: 165
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbd447bc6beb96f0800000000000000
+      internalID: -676688466825389120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 2087
+        width: 166
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d80d4318fa70aa0800000000000000
+      internalID: -6194789792953103026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 2087
+        width: 165
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6413d24941d3910c0800000000000000
+      internalID: -4604581985414991546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 2087
+        width: 146
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147d2ee8583f12280800000000000000
+      internalID: -9069700419594037439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2087
+        width: 164
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f94c1bd3ace30680800000000000000
+      internalID: -8789921859197187594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 2087
+        width: 165
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a59341f02fff090800000000000000
+      internalID: -7998408266608977340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 2087
+        width: 165
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a845966f397c126b0800000000000000
+      internalID: -5322753846266997622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 2108
+        width: 145
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24faabc2a6df90440800000000000000
+      internalID: 4902728301828288322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 2118
+        width: 166
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5d7661ac33f78b0800000000000000
+      internalID: -5152342505636244054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 2118
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b18829725a0f5a00800000000000000
+      internalID: 747327412503085491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 2108
+        width: 146
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02798b7e6f5daa060800000000000000
+      internalID: 6965615030108198688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 2108
+        width: 165
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c996a67af09c7dc0800000000000000
+      internalID: -3639874993415349815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 2118
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39166e00ae27b98d0800000000000000
+      internalID: -2838548790763953773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 2118
+        width: 145
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3378b395abba61c0800000000000000
+      internalID: -4509585757035793603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 2638
+        y: 2087
+        width: 145
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a5610a7e09809f0800000000000000
+      internalID: -501992033954145781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 2837
+        y: 2087
+        width: 165
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b574bd16c34ab9b0800000000000000
+      internalID: -5063660312843749968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 3027
+        y: 2087
+        width: 146
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ff0a5e79b711b50800000000000000
+      internalID: 6562162024378335097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 3177
+        y: 2087
+        width: 165
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43f9cb7fc400b150800000000000000
+      internalID: 5886210002154812238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 2087
+        width: 165
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4642c5d508f35200800000000000000
+      internalID: 167750315087644234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 3537
+        y: 2108
+        width: 146
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8198299b985e450800000000000000
+      internalID: 6117447098973100217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 3728
+        y: 2087
+        width: 165
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3612dd7fb8bceb6d0800000000000000
+      internalID: -2972714901998591645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_35
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1768
+        width: 125
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abe83d3584b701b0800000000000000
+      internalID: -5690381119808541785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_36
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1788
+        width: 146
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8360938cb0991fc30800000000000000
+      internalID: 4391459387545814584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_37
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1768
+        width: 155
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80162da6dc3244560800000000000000
+      internalID: 7296996661414486280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_38
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1768
+        width: 116
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefc00b0ae5a020d0800000000000000
+      internalID: -3449574889940267028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1768
+        width: 134
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568d8a2fdb20f6960800000000000000
+      internalID: 7597294111240542309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_40
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 1768
+        width: 135
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc5430ff58c6d620800000000000000
+      internalID: 2798644532834753733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1768
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fedb5fb78bd8dd0800000000000000
+      internalID: -2482124977067921529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_42
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1778
+        width: 134
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7b665dd09d232d0800000000000000
+      internalID: -3300336923471071277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_43
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 1778
+        width: 136
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3572f4e68c7ca1e90800000000000000
+      internalID: -7054106202664392877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_44
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 1778
+        width: 134
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966d73785c93932a0800000000000000
+      internalID: -6757306245352794519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_45
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 1778
+        width: 135
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53143acfbc84fa280800000000000000
+      internalID: -9029918686900436683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_46
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 1778
+        width: 146
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b77d86097941770800000000000000
+      internalID: 8580649836537674537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_47
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 1768
+        width: 124
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c928dac70c53d90800000000000000
+      internalID: -7118571994269705092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_48
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 1768
+        width: 135
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9090cb00e515de0b0800000000000000
+      internalID: -5697808489372710647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_49
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1437
+        width: 165
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19be4007ac6c66110800000000000000
+      internalID: 1253908119034325905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_50
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1437
+        width: 166
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d597d763b180570800000000000000
+      internalID: 8433020223098543413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_51
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1437
+        width: 165
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3aa858b63c76210800000000000000
+      internalID: 1326243481853273029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_52
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1437
+        width: 146
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f064752e58ed1bf0800000000000000
+      internalID: -351869704812076814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_53
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1437
+        width: 164
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52761c6cc05f5dc50800000000000000
+      internalID: 6689522256751716133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_54
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 1437
+        width: 165
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd74aff8d38ca750800000000000000
+      internalID: 6317569345319108037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_55
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1437
+        width: 165
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0121cb2cbbccac0800000000000000
+      internalID: -3833482737745784626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_56
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 1457
+        width: 145
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f39684903dafb240800000000000000
+      internalID: 4809753351216862193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_57
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 1467
+        width: 166
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa966ca9f0b84430800000000000000
+      internalID: 3767455674681170681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_58
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 1467
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461140067400ebfb0800000000000000
+      internalID: -4630263060336733852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_59
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 1457
+        width: 146
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94988d1c925454b10800000000000000
+      internalID: 1965052858065258825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_60
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 1457
+        width: 165
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee4d85c295fdd7b0800000000000000
+      internalID: -5197728384187281696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_61
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 1467
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be17099c248e7250800000000000000
+      internalID: 5944333885256441529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_62
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 1467
+        width: 145
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed14c5bfb738a9ce0800000000000000
+      internalID: -1397660165823774242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_63
+      rect:
+        serializedVersion: 2
+        x: 2638
+        y: 1437
+        width: 145
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1722c410c54835cb0800000000000000
+      internalID: -4876408440818490767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_64
+      rect:
+        serializedVersion: 2
+        x: 2837
+        y: 1437
+        width: 165
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3be83ace5db94a80800000000000000
+      internalID: -8482040208358315203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_65
+      rect:
+        serializedVersion: 2
+        x: 3027
+        y: 1437
+        width: 146
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f880ca9b933f23080800000000000000
+      internalID: -9209030858765498225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_66
+      rect:
+        serializedVersion: 2
+        x: 3177
+        y: 1437
+        width: 165
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa2ca21734670920800000000000000
+      internalID: 2956441868091271843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_67
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 1437
+        width: 165
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebc630886c5b6910800000000000000
+      internalID: 1831659277353667564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_68
+      rect:
+        serializedVersion: 2
+        x: 3537
+        y: 1457
+        width: 146
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f40bfb8d5035160800000000000000
+      internalID: 7012955473233071981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_69
+      rect:
+        serializedVersion: 2
+        x: 3728
+        y: 1437
+        width: 165
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5f08b3efcb51ba0800000000000000
+      internalID: -6118776718606928468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_70
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1107
+        width: 125
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81309a4fea2f3ec00800000000000000
+      internalID: 928852781411402520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_71
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1128
+        width: 146
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6ff3c665d32e9a0800000000000000
+      internalID: -6205329895170509126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_72
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1107
+        width: 155
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6581f5fd722e989f0800000000000000
+      internalID: -465592425576982442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_73
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1107
+        width: 116
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552b1e91b67cfb1c0800000000000000
+      internalID: -4485647441028074923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_74
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1107
+        width: 134
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356551ee08d334100800000000000000
+      internalID: 90984041437025875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_75
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 1107
+        width: 135
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578499bab105fdbb0800000000000000
+      internalID: -4909116989037262731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_76
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1107
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a3439c759551c30800000000000000
+      internalID: 4329464850359269918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_77
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1117
+        width: 134
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749f5ad9c86e7ea30800000000000000
+      internalID: 4244614665434691911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_78
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 1117
+        width: 136
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21327230254973e0800000000000000
+      internalID: -2055535750330306259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_79
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 1117
+        width: 134
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfb02fb961ed2ce0800000000000000
+      internalID: -1428237662512169007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_80
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 1117
+        width: 135
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e18c2a38ee35930800000000000000
+      internalID: 4130907532368027213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_81
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 1117
+        width: 146
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f55ec48e225b75b0800000000000000
+      internalID: -5369607770959096327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_82
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 1107
+        width: 124
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6ae08a9c3b78bf0800000000000000
+      internalID: -322091169644370231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_83
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 1107
+        width: 135
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ea0eb89db43d390800000000000000
+      internalID: -7794803132321452469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_84
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 778
+        width: 165
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e179005874a3ec70800000000000000
+      internalID: 8999217317062210018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_85
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 778
+        width: 165
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a8bab2f2e792560800000000000000
+      internalID: 7289496212937083437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_86
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 778
+        width: 146
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d2d1b91d208dc60800000000000000
+      internalID: 7843021850339519791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_87
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 778
+        width: 164
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8ac64a356a6a000800000000000000
+      internalID: 46907724305049811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_88
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 778
+        width: 165
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad48fba3aca03640800000000000000
+      internalID: 5057732200501890470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_89
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 778
+        width: 165
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666de5d067323b8e0800000000000000
+      internalID: -1678959246141630874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_90
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 798
+        width: 145
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c0d7f3ae32d2290800000000000000
+      internalID: -7913629481225614237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_91
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 808
+        width: 166
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b54b6d02a022b20800000000000000
+      internalID: 3108057828996438937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_92
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 808
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c803bbcdad37fa90800000000000000
+      internalID: -7280282455964972862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_93
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 798
+        width: 146
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee386c41725db020800000000000000
+      internalID: 2359132426378690283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_94
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 798
+        width: 165
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57a05e4b6e342d50800000000000000
+      internalID: 6711557975285213020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_95
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 808
+        width: 165
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f195a78af85de80800000000000000
+      internalID: -8154453596514476243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_96
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 808
+        width: 145
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba228a40b0c9ae550800000000000000
+      internalID: 6190932208910869163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_97
+      rect:
+        serializedVersion: 2
+        x: 2638
+        y: 778
+        width: 145
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aedebf1f9bfe3f1f0800000000000000
+      internalID: -1012201909320421910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_98
+      rect:
+        serializedVersion: 2
+        x: 2837
+        y: 778
+        width: 165
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f782d64082c9860800000000000000
+      internalID: 7537943875787718531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_99
+      rect:
+        serializedVersion: 2
+        x: 3027
+        y: 778
+        width: 146
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421d7eb988ad835a0800000000000000
+      internalID: -6541238178489577180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_100
+      rect:
+        serializedVersion: 2
+        x: 3177
+        y: 778
+        width: 165
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7d4a4100b4607c0800000000000000
+      internalID: -4105511546583197748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_101
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 778
+        width: 165
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663feebc537bd2c00800000000000000
+      internalID: 877558944089699174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_102
+      rect:
+        serializedVersion: 2
+        x: 3537
+        y: 798
+        width: 146
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442449dbe8f12c5c0800000000000000
+      internalID: -4196757204829453756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_103
+      rect:
+        serializedVersion: 2
+        x: 3897
+        y: 1018
+        width: 75
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7950723170f5d31a0800000000000000
+      internalID: -6828196976033069673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_104
+      rect:
+        serializedVersion: 2
+        x: 3968
+        y: 1038
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fbb149bf8c720f0800000000000000
+      internalID: -1141722997667938500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_105
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 778
+        width: 166
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa556278afd8eaa0800000000000000
+      internalID: -6131404978098185475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_106
+      rect:
+        serializedVersion: 2
+        x: 3728
+        y: 778
+        width: 165
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5567ec2778a9f680800000000000000
+      internalID: -8720753973618317985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_107
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 337
+        width: 125
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a108047e0c72e6890800000000000000
+      internalID: -7462983823039365094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_108
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 337
+        width: 124
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930275be486b40d20800000000000000
+      internalID: 3243918313613893689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_109
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 337
+        width: 126
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebc47f4a7de4b680800000000000000
+      internalID: -8740099867244442648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_110
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 337
+        width: 124
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f36f5823c686810800000000000000
+      internalID: 1758774618739851130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_111
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 337
+        width: 126
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178b3cc962c027990800000000000000
+      internalID: -7389830678583199631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_112
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 337
+        width: 124
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25daf2c39dc9ef20800000000000000
+      internalID: 3452516623871300911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_113
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 337
+        width: 126
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26115dfd23da7a0c0800000000000000
+      internalID: -4564489263301455518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_114
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 337
+        width: 124
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed1ed4ab1c2d2230800000000000000
+      internalID: 3615594573090135526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_115
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 337
+        width: 126
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebc2d61866ad9db0800000000000000
+      internalID: -4783484263207875611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_116
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 337
+        width: 124
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca6de38b77784230800000000000000
+      internalID: 3623277272597621448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_117
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 337
+        width: 126
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba4b443940865480800000000000000
+      internalID: -8910793760807630148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_118
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 337
+        width: 126
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e996c66c9b0cdc320800000000000000
+      internalID: 2579930065683638686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_119
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 337
+        width: 126
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bdb6d1a755450c0800000000000000
+      internalID: -4587948137415713929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_120
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 337
+        width: 124
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d23093a1edb16510800000000000000
+      internalID: 1540721324346847957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_121
+      rect:
+        serializedVersion: 2
+        x: 2528
+        y: 337
+        width: 124
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ce306ae5053e080800000000000000
+      internalID: -9159388849699033955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_122
+      rect:
+        serializedVersion: 2
+        x: 2697
+        y: 337
+        width: 126
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab9ecdc368cfc930800000000000000
+      internalID: 4165768511321185191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_123
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 165
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7647842f44f319d0800000000000000
+      internalID: -2804629522169248129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_124
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 7
+        width: 165
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e136b7f5331ee5c20800000000000000
+      internalID: 3197240396241134366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_125
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 7
+        width: 166
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d8ee3afceeae6e0800000000000000
+      internalID: -1807369724859871942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_126
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 7
+        width: 165
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ccfe75942fe69b0800000000000000
+      internalID: -5084860532432843625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_127
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 7
+        width: 165
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c1eb5efdbe85fc0800000000000000
+      internalID: -3505792963043255226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_128
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 7
+        width: 164
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d2de11acdab33b0800000000000000
+      internalID: -5531636633898767003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_129
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 7
+        width: 165
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a676d08464954b50800000000000000
+      internalID: 6576825990223656610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_130
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 7
+        width: 165
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e0afcd2d1786b80800000000000000
+      internalID: -8401339954395214228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_131
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 7
+        width: 166
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362a09d5b0175a160800000000000000
+      internalID: 7036154286464606819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_132
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 7
+        width: 165
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224857327c8bfa240800000000000000
+      internalID: 4805262492860515362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_133
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 7
+        width: 165
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf5666dc24e1db70800000000000000
+      internalID: 8922163218024390602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_134
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 7
+        width: 165
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8771b626118c56c60800000000000000
+      internalID: 7810869105735178104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_135
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 7
+        width: 165
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be41d6552dc3b4070800000000000000
+      internalID: 8091628029575238891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_136
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 7
+        width: 165
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e7ffce2982a2c50800000000000000
+      internalID: 6641165212017720966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_137
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 7
+        width: 165
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d5b01bdb1650570800000000000000
+      internalID: 8432253344668147029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_Sprites_138
+      rect:
+        serializedVersion: 2
+        x: 2677
+        y: 7
+        width: 165
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c100ff18d880aa0800000000000000
+      internalID: -6194545697979622318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
