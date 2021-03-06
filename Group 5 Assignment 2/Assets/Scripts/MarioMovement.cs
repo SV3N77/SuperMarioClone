@@ -26,7 +26,7 @@ public class MarioMovement : MonoBehaviour
     private float turningAcceleration = 15.0f;
     [Tooltip("The deceleration per second of Mario when there is no left or right input")]
     [SerializeField]
-    private float deceleration = 8.0f;
+    private float deceleration = 5.0f;
 
     [Header("Jumping Setting")]
     [Tooltip("The acceleration (units / second) at time = 0 in jump")]
@@ -61,7 +61,8 @@ public class MarioMovement : MonoBehaviour
 
     private void Awake()
     {
-        marioRig = GetComponent<Rigidbody2D>();
+        if (marioRig == null)
+            marioRig = GetComponent<Rigidbody2D>();
     }
 
     // Start is called before the first frame update
@@ -74,7 +75,7 @@ public class MarioMovement : MonoBehaviour
     {
         marioFalling();
 
-        //Code for testing
+        //testing code
         //if (Input.GetAxisRaw("Horizontal") != 0.0f)
         //{
         //    marioMovement(Input.GetAxisRaw("Horizontal"), Input.GetKey(KeyCode.L));
