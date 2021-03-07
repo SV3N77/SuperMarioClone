@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.Group 5 Assignment 2.iml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\Users\Danny\Documents\GitHub\SuperMarioClone\Group 5 Assignment 2\.idea\.idea.Group 5 Assignment 2\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
