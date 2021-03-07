@@ -8,8 +8,6 @@ public class MarioSpecialBehavior : MonoBehaviour
     private float spawnDistance = 0.55f;
     [SerializeField]
     private GameObject fireballPrefab;
-    [SerializeField]
-    private InteractionManager inactMan;
 
     //testing code
     //private float dirMemory = 1.0f;
@@ -18,15 +16,6 @@ public class MarioSpecialBehavior : MonoBehaviour
     void Start()
     {
         
-    }
-
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
-        if (collision.transform.tag.Equals("Items"))
-        {
-            //Gets GameManager.CollectType of the item (Or the items Call this)
-            inactMan.marioCollectItem(GameManager.CollectType.Coin); //get the collecttype from above
-        }
     }
 
     // Update is called once per frame
