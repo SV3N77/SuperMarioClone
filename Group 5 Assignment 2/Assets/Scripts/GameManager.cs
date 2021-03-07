@@ -11,7 +11,8 @@ public class GameManager
     {
         Small,
         Large,
-        FireFlower
+        FireFlower,
+        SuperStar
     }
 
     public enum CollectType
