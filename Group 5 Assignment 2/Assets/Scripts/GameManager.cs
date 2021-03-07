@@ -20,6 +20,6 @@ public class GameManager
         One_Up,
         Mushroom,
         FireFlower,
-        SuperStar
+        SuperStart
     }
 }
