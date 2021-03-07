@@ -2,25 +2,24 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class GameManager : MonoBehaviour
+public class GameManager
 {
-    public static GameManager instance;
-    public MarioState marioState = MarioState.Small; // Default state: small. 
+    static public int marioLives = 3;
+    static public MarioState marioState = MarioState.Small; // Default state: small. 
 
-    void Awake() // Makes sure there's only one GameManager
+    public enum MarioState
     {
-        if(instance == null) {
-            instance = this;
-            DontDestroyOnLoad(instance);
-        }
-        else
-        {
-            Destroy(this);
-        }
+        Small,
+        Large,
+        FireFlower
     }
 
-    void Update()
+    public enum CollectType
     {
-        
+        Coin,
+        One_Up,
+        Mushroom,
+        FireFlower,
+        SuperStart
     }
 }
