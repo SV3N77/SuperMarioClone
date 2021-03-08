@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: MarioRun
+  m_Name: FireMarioRun
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -20,11 +20,11 @@ AnimationClip:
   m_PPtrCurves:
   - curve:
     - time: 0
-      value: {fileID: -6812331923636671884, guid: c7dd92f5488d2ae4da243b5c43ddcfec, type: 3}
+      value: {fileID: 46907724305049811, guid: c7dd92f5488d2ae4da243b5c43ddcfec, type: 3}
     - time: 0.016666668
-      value: {fileID: -3139477528469955026, guid: c7dd92f5488d2ae4da243b5c43ddcfec, type: 3}
+      value: {fileID: 7289496212937083437, guid: c7dd92f5488d2ae4da243b5c43ddcfec, type: 3}
     - time: 0.033333335
-      value: {fileID: 7418840016752550089, guid: c7dd92f5488d2ae4da243b5c43ddcfec, type: 3}
+      value: {fileID: 7843021850339519791, guid: c7dd92f5488d2ae4da243b5c43ddcfec, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -44,9 +44,9 @@ AnimationClip:
       customType: 23
       isPPtrCurve: 1
     pptrCurveMapping:
-    - {fileID: -6812331923636671884, guid: c7dd92f5488d2ae4da243b5c43ddcfec, type: 3}
-    - {fileID: -3139477528469955026, guid: c7dd92f5488d2ae4da243b5c43ddcfec, type: 3}
-    - {fileID: 7418840016752550089, guid: c7dd92f5488d2ae4da243b5c43ddcfec, type: 3}
+    - {fileID: 46907724305049811, guid: c7dd92f5488d2ae4da243b5c43ddcfec, type: 3}
+    - {fileID: 7289496212937083437, guid: c7dd92f5488d2ae4da243b5c43ddcfec, type: 3}
+    - {fileID: 7843021850339519791, guid: c7dd92f5488d2ae4da243b5c43ddcfec, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
