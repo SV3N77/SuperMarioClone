@@ -123,6 +123,50 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &379659669
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 379659671}
+  - component: {fileID: 379659670}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &379659670
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 379659669}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 467f621b04ec2f94c974f97dafe4e841, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  marioState: 0
+--- !u!4 &379659671
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 379659669}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 6.0172796, y: 7.4663353, z: -0.7852884}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -272,6 +316,95 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &5441361751672956839
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5441361751640895312, guid: 5cb53fab1e9ff324ba96283541f9596a, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5441361751640895312, guid: 5cb53fab1e9ff324ba96283541f9596a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 6.0172796
+      objectReference: {fileID: 0}
+    - target: {fileID: 5441361751640895312, guid: 5cb53fab1e9ff324ba96283541f9596a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 7.4663353
+      objectReference: {fileID: 0}
+    - target: {fileID: 5441361751640895312, guid: 5cb53fab1e9ff324ba96283541f9596a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.7852884
+      objectReference: {fileID: 0}
+    - target: {fileID: 5441361751640895312, guid: 5cb53fab1e9ff324ba96283541f9596a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5441361751640895312, guid: 5cb53fab1e9ff324ba96283541f9596a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5441361751640895312, guid: 5cb53fab1e9ff324ba96283541f9596a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5441361751640895312, guid: 5cb53fab1e9ff324ba96283541f9596a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5441361751640895312, guid: 5cb53fab1e9ff324ba96283541f9596a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5441361751640895312, guid: 5cb53fab1e9ff324ba96283541f9596a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5441361751640895312, guid: 5cb53fab1e9ff324ba96283541f9596a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5441361751640895313, guid: 5cb53fab1e9ff324ba96283541f9596a, type: 3}
+      propertyPath: marioAnimator
+      value: 
+      objectReference: {fileID: 8137689093505738299}
+    - target: {fileID: 5441361751640895313, guid: 5cb53fab1e9ff324ba96283541f9596a, type: 3}
+      propertyPath: marioFireIdle
+      value: 
+      objectReference: {fileID: 8999217317062210018, guid: c7dd92f5488d2ae4da243b5c43ddcfec, type: 3}
+    - target: {fileID: 5441361751640895313, guid: 5cb53fab1e9ff324ba96283541f9596a, type: 3}
+      propertyPath: marioFireJump
+      value: 
+      objectReference: {fileID: -1678959246141630874, guid: c7dd92f5488d2ae4da243b5c43ddcfec, type: 3}
+    - target: {fileID: 5441361751640895313, guid: 5cb53fab1e9ff324ba96283541f9596a, type: 3}
+      propertyPath: marioLargeIdle
+      value: 
+      objectReference: {fileID: -676688466825389120, guid: c7dd92f5488d2ae4da243b5c43ddcfec, type: 3}
+    - target: {fileID: 5441361751640895313, guid: 5cb53fab1e9ff324ba96283541f9596a, type: 3}
+      propertyPath: marioLargeJump
+      value: 
+      objectReference: {fileID: -5322753846266997622, guid: c7dd92f5488d2ae4da243b5c43ddcfec, type: 3}
+    - target: {fileID: 5441361751640895313, guid: 5cb53fab1e9ff324ba96283541f9596a, type: 3}
+      propertyPath: marioSmallIdle
+      value: 
+      objectReference: {fileID: -9114690716081403391, guid: c7dd92f5488d2ae4da243b5c43ddcfec, type: 3}
+    - target: {fileID: 5441361751640895313, guid: 5cb53fab1e9ff324ba96283541f9596a, type: 3}
+      propertyPath: marioSmallJump
+      value: 
+      objectReference: {fileID: -4452687873240184229, guid: c7dd92f5488d2ae4da243b5c43ddcfec, type: 3}
+    - target: {fileID: 5441361751640895313, guid: 5cb53fab1e9ff324ba96283541f9596a, type: 3}
+      propertyPath: marioSpriteRenderer
+      value: 
+      objectReference: {fileID: 8137689093505738300}
+    - target: {fileID: 5441361751640895314, guid: 5cb53fab1e9ff324ba96283541f9596a, type: 3}
+      propertyPath: m_Name
+      value: AnimatorController
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5cb53fab1e9ff324ba96283541f9596a, type: 3}
 --- !u!1001 &5842449821051511576
 PrefabInstance:
   m_ObjectHideFlags: 0
