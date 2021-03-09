@@ -55,6 +55,8 @@ public class MarioMovement : MonoBehaviour
     [Tooltip("The Rigidbody2D Componenet of Mario")]
     [SerializeField]
     private Rigidbody2D marioRig;
+    [SerializeField]
+    private AnimationManager animMan;
 
     //These fields are used for code and calculation
     private bool onGround = false;
@@ -83,6 +85,14 @@ public class MarioMovement : MonoBehaviour
         //{
         //    marioDecelering();
         //}
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.tag.Equals("DeathPlane"))
+        {
+            MarioDie();
+        }
     }
 
     // Update is called once per frame
@@ -169,9 +179,20 @@ public class MarioMovement : MonoBehaviour
         }
     }
 
+    private void MarioDie()
+    {
+        marioRig.GetComponent<CapsuleCollider2D>().enabled = false;
+        marioRig.velocity = Vector2.up * 1.5f * jumpAcceleration;
+        animMan.MarioDie();
+    }
+
     public void setOnGround(bool isGrounded)
     {
         onGround = isGrounded;
+        if (isGrounded)
+        {
+            animMan.GroundTrigger();
+        }
     }
 
     public float getMarioYVelocity()
@@ -179,4 +200,13 @@ public class MarioMovement : MonoBehaviour
         return marioRig.velocity.y;
     }
 
+    public bool getOnground()
+    {
+        return onGround;
+    }
+
+    public float getMatioVelocity()
+    {
+        return marioRig.velocity.x;
+    }
 }

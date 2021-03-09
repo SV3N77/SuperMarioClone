@@ -8,6 +8,10 @@ public class InputManager : MonoBehaviour
     private MarioMovement marioMove;
     [SerializeField]
     private MarioSpecialBehavior marioSpecial;
+    [SerializeField]
+    private AnimationManager animMan;
+    [SerializeField]
+    private SpriteRenderer marioRend;
 
     private float dirMemory = 1.0f;
     
@@ -23,6 +27,7 @@ public class InputManager : MonoBehaviour
         {
             dirMemory = Input.GetAxisRaw("Horizontal");
             marioMove.marioMovement(Input.GetAxisRaw("Horizontal"), Input.GetButton("Run"));
+            marioRend.flipX = dirMemory < 0;
         } else
         {
             marioMove.marioDecelering();
@@ -39,6 +44,7 @@ public class InputManager : MonoBehaviour
     {
         if (Input.GetButtonDown("Jump"))
         {
+            animMan.jumpTrigger();
             marioMove.marioJump();
         }
 

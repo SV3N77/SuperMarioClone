@@ -6,6 +6,8 @@ using UnityEditor.Animations;
 public class AnimationManager : MonoBehaviour
 {  
     public Animator marioAnimator;
+    [SerializeField]
+    private MarioMovement marioMove;
 
 
     public void SmallMarioRun() {
@@ -53,9 +55,34 @@ public class AnimationManager : MonoBehaviour
     }
 
     public void Start() {
-        GameManager.instance.marioState = MarioState.FireFlower;
-        Invoke("Jump",1);
+        //GameManager.instance.marioState = MarioState.FireFlower;
+        //Invoke("Jump",1);
         
     }
-    
+
+    private void FixedUpdate()
+    {
+        marioAnimator.SetFloat("MarioVelocity", Mathf.Abs(marioMove.getMatioVelocity()));
+    }
+
+    private void Update()
+    {
+
+    }
+
+    public void jumpTrigger()
+    {
+        marioAnimator.SetTrigger("Jump");
+        marioAnimator.ResetTrigger("OnGround");
+    }
+
+    public void GroundTrigger()
+    {
+        marioAnimator.SetTrigger("OnGround");
+    }
+
+    public void MarioDie()
+    {
+        marioAnimator.SetTrigger("Dead");
+    }
 }
