@@ -6412,6 +6412,16 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+  - first: {x: 76, y: -1, z: 0}
+    second:
+      serializedVersion: 2
+      m_TileIndex: 31
+      m_TileSpriteIndex: 31
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_TileObjectToInstantiateIndex: 65535
+      dummyAlignment: 0
+      m_AllTileFlags: 1073741825
   - first: {x: 77, y: -1, z: 0}
     second:
       serializedVersion: 2
@@ -8036,7 +8046,7 @@ Tilemap:
     m_Data: {fileID: 11400000, guid: 34ecb6dc2fc364d0f9212f89aac76a70, type: 2}
   - m_RefCount: 12
     m_Data: {fileID: 11400000, guid: 7e2f897638a1a4955b0b0db3a706f1bd, type: 2}
-  - m_RefCount: 10
+  - m_RefCount: 11
     m_Data: {fileID: 11400000, guid: df138abff7c9b4bca97b1f28098ea4ce, type: 2}
   - m_RefCount: 2
     m_Data: {fileID: 11400000, guid: 0decf889a77d64e4eb43ccef5354724a, type: 2}
@@ -8107,7 +8117,7 @@ Tilemap:
     m_Data: {fileID: 1595904627923916559, guid: 7d0e8804ae30f47e694ca44cf6fea699, type: 3}
   - m_RefCount: 12
     m_Data: {fileID: 849479444909315412, guid: 7d0e8804ae30f47e694ca44cf6fea699, type: 3}
-  - m_RefCount: 10
+  - m_RefCount: 11
     m_Data: {fileID: 7054746863853534239, guid: 7d0e8804ae30f47e694ca44cf6fea699, type: 3}
   - m_RefCount: 2
     m_Data: {fileID: 438571375011710474, guid: 7d0e8804ae30f47e694ca44cf6fea699, type: 3}
@@ -8116,7 +8126,7 @@ Tilemap:
   - m_RefCount: 6
     m_Data: {fileID: -3326262217702385380, guid: 7d0e8804ae30f47e694ca44cf6fea699, type: 3}
   m_TileMatrixArray:
-  - m_RefCount: 776
+  - m_RefCount: 777
     m_Data:
       e00: 1
       e01: 0
@@ -8135,7 +8145,7 @@ Tilemap:
       e32: 0
       e33: 1
   m_TileColorArray:
-  - m_RefCount: 776
+  - m_RefCount: 777
     m_Data: {r: 1, g: 1, b: 1, a: 1}
   m_TileObjectToInstantiateArray: []
   m_AnimationFrameRate: 1
@@ -8171,6 +8181,10 @@ PrefabInstance:
     - target: {fileID: 4757181637109409361, guid: 49ce6b4534e55074d8719fac4a049213, type: 3}
       propertyPath: m_Name
       value: Music
+      objectReference: {fileID: 0}
+    - target: {fileID: 4757181637109409362, guid: 49ce6b4534e55074d8719fac4a049213, type: 3}
+      propertyPath: m_Volume
+      value: 0.405
       objectReference: {fileID: 0}
     - target: {fileID: 4757181637109409363, guid: 49ce6b4534e55074d8719fac4a049213, type: 3}
       propertyPath: m_RootOrder
