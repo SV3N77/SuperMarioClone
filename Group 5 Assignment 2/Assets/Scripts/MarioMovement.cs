@@ -184,6 +184,12 @@ public class MarioMovement : MonoBehaviour
         marioRig.GetComponent<CapsuleCollider2D>().enabled = false;
         marioRig.velocity = Vector2.up * 1.5f * jumpAcceleration;
         animMan.MarioDie();
+        Invoke("loadGameOver", 5.0f);
+    }
+
+    private void loadGameOver()
+    {
+        GameManager.instance.loadGameOver();
     }
 
     public void setOnGround(bool isGrounded)
