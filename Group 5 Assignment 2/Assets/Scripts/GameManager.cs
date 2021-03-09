@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UIElements;
 
 public class GameManager : MonoBehaviour
 {
@@ -22,17 +23,34 @@ public class GameManager : MonoBehaviour
 
     void Update()
     {
-        
+        restartGame();
+        exitGame();
     }
 
     public void loadGameOver()
     {
         SceneManager.LoadScene(1);
-        Invoke("loadGameScene", 5.0f);
+        Invoke("loadGameScene", 4.0f);
     }
 
     public void loadGameScene()
     {
         SceneManager.LoadScene(0);
+    }
+
+    void restartGame()
+    {
+        if (Input.GetKeyDown(KeyCode.R))
+        {
+            SceneManager.LoadScene(0);
+        }
+    }
+
+    void exitGame()
+    {
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            Application.Quit();
+        }
     }
 }
